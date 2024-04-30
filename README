@@ -1,0 +1,3 @@
+# SHA-1 Iteration Finder
+
+This is a little tool to calculate how many folds or iterations a string has gone through to reach a given sha1 hex value.
